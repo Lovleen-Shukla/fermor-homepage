@@ -2,10 +2,8 @@
 
 A redesigned homepage for Fermor, built for the Frontend Developer Assignment.
 
-**Live site:** https://fermor-homepage-phi.vercel.app/
-**Repository:** https://github.com/Lovleen-Shukla/fermor-homepage
-
-![Desktop view](./screenshots/desktop.png)
+- **Live site:** https://fermor-homepage-phi.vercel.app/
+- **Repository:** https://github.com/Lovleen-Shukla/fermor-homepage
 
 
 ## Tech stack
